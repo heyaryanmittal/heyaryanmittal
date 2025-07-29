@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=heyaryanmittal&label=Profile%20views&color=0e75b6&style=flat" alt="heyaryanmittal" /> </p>
 
+- 🎓 5th Semester CSE Student @ Chitkara University
+ 
 - 🔭 I’m currently working on **Java Full Stack Projects**
 
 - 🌱 I’m currently learning **Java and MongoDb**
@@ -14,12 +16,6 @@
 - 💬 Ask me about **Full Stack**
 
 - 📫 How to reach me **heyaryanmittal@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/heyaryanmittal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="heyaryanmittal" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/heyaryanmittal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="heyaryanmittal" height="30" width="40" /></a>
-</p>
 
 ## 🚀 Tech Stack
 
@@ -40,5 +36,12 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-
+## 📊 GitHub Stats
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=heyaryanmittal&show_icons=true&locale=en&layout=compact" alt="heyaryanmittal" /></p>
+
+
+## 🔗 Let’s Connect
+<p align="left">
+<a href="https://linkedin.com/in/heyaryanmittal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="heyaryanmittal" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/heyaryanmittal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="heyaryanmittal" height="30" width="40" /></a>
+</p>
