@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=heyaryanmittal&label=Profile%20views&color=0e75b6&style=flat" alt="heyaryanmittal" /> </p>
 
-- 🎓 5th Semester CSE Student @ Chitkara University
+- 🎓 6th Semester CSE Student @ Chitkara University
  
 - 🔭 I’m currently working on **Java Full Stack Projects**
 
