@@ -6,7 +6,7 @@
 
 <div align="center">
   
-**6th Semester CSE Student @ Chitkara University**  
+**7th Semester CSE Student @ Chitkara University**  
 **Full Stack Developer | Java | DSA**
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&random=false&width=600&lines=Continuously+Learning+%26+Improving;Crafting+Modern+Web+Experiences;Building+Scalable+Web+Applications;Solving+Data+Structures+%26+Algorithms" alt="Typing SVG" />
